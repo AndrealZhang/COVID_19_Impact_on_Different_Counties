@@ -11,3 +11,10 @@ Looking at this correlation table, we see that the correlation between the numbe
 However, as we know that COVID-19 affects those who are over 60 more gravely then middle aged and younger people, we can further investigate this. From the correlation chart, we see that the correlation between the number of deaths per 1,000 and the total number of people who are 60 years and over is around 0.17. Although this is still a small number, it’s significant because it shows that the greater number of people over 60 there are in a county, the greater number of deaths there will be. 
 
 Let’s look at counties with the greatest number of people over 60:
+![alt_text](https://github.com/AndrealZhang/COVID_19_Impact_on_Different_Counties/blob/master/Over%2060%20bar%20chart.png)
+
+## Summary and Implications
+1. Number of hospital beds does not have an impact on the number of deaths due to COVID-19.
+2. The greater number of people over 60 there are in a county, the greater number of deaths there will be. 
+3. Counties with a greater number of people over 60, such as Los Angeles, should implement stricter social distancing policies to prevent the spread of COVID-19.
+
